@@ -40,7 +40,7 @@ If at any point in the future, any subdomain other than www. will be used, then 
 
 ## Costs
 
-### All of the following numbers EXCLUE VAT!
+### All of the following numbers EXCLUDE VAT!
 
 ### DomainSSL - Single Domain
 ![3](http://i.imgur.com/wcKn4bb.png "DomainSSL - Single Domain")
