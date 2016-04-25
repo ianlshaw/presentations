@@ -1,5 +1,12 @@
 # SSL Certificate 101
 
+1. What an SSL Certificate is.
+2. Why you should consider its purchase.
+3. How to go about doing this.
+4. Options you have in that case.
+5. Implications of not doing so.
+6. Why it should almost always be budgeted for, by default.
+
 ## What is it? What does it do?
 ##### An SSL Certificate is a digital certificate, used by a webserver to `validate` its own `identity` to any visting user.
 
